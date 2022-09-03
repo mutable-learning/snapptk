@@ -67,7 +67,7 @@ Now that you have software installed and setup, it is time to test to see if it 
 2. Make sure it is not in the .snappytk folder but outside this. I put mine in a *code* folder like in this pic<br>
 ![hello_world.py in code folder](pics/hello_world.png)
 3. You should now be able to type your code in the new *hello_world.py* in the editor window
-4. Type in the code below and save your file: and save your file
+4. Type in the code below and save your file:
     ```
     print("Hello, World!")
     ```

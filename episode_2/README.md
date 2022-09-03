@@ -15,7 +15,8 @@ root = tk.Tk()
 root.mainloop()
 ```
 
-This code will work, but it only works when we run the file as a script. To make our code better and safer we should use some of the built-in functionality of Python.
+Here is the window displaying on Windows when you run the code: <br>
+![A simple tkinter window](pics/simple_window.png)
 
 ### What does mainloop() do?
 In tkinter, the mainloop() function tells python to start showing the interface and wait for input while the interface is running. If you put any code after this line it won't run until you close the window! Try it out for yourself.
@@ -25,6 +26,8 @@ See what happens if you put this line of code after the root.mainloop() line:
     ...
     root.mainloop()
     print("After the mainloop")
+
+This code will work, but it only works when we run the file as a script. To make our code better and safer we should use some of the built-in functionality of Python.
 
 [Version 2 - Using a main() function](code/window_testing_v2.py)<br>
 In the second version of the code we add in a main() function and then use the built-in functionality of Python to only run this function if we are using the file as a script. The code looks like this:

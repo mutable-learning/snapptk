@@ -13,7 +13,7 @@ Tkinter and Python work on all these OSes. You don't need a powerful computer ei
 1. In these videos we will be using Python version 3.10 (latest version in 2022)
 1. Download Python from [python.org](https://www.python.org/)
 1. Install it on your machine
-    - If you are on Windows, check the option to add python to you path like the picture below marked in green
+    - If you are on Windows, check the option to add python to you path like the picture below marked in green<br>
     ![Add python to windows path](pics/python_install_windows.png)
 
 ## Install VS Code (or choose your own editor)
@@ -25,7 +25,8 @@ There are lots of code editors you can use to write your software. In this serie
 ## Setup VS Code
 An editor should make writing code easy and fun. You want to think about your ideas and code, not how to use the software to write your code. Spend some time getting used to the editor and setting it up for yourself so that you have a smooth and simple workflow going.
 
-1. Now we will install some extensions. Click on the Extensions icon in the left **Activity Bar** ![Extensions](pics/extensions.png)
+1. Now we will install some extensions. Click on the Extensions icon in the left **Activity Bar** <br>
+![Extensions](pics/extensions.png)
 2. Search for and install some extensions to help you write your code and work with python. Only the first one is a must install, the others are good but up to you:
    1. [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
        - this will also install other extensions automatically
@@ -56,14 +57,14 @@ For more information on the why, what, how of using python virtual environments,
    1. Mac: *python3 -m venv .snappytk*
    2. Windows: *python -m venv .snappytk*
 3. Wait a moment for the command to complete
-4. You should now see a .snappytk folder appear in your folder list in VS Code like the pic below
-![Virtual Environment](pics/virtaul_env.png)
+4. You should now see a .snappytk folder appear in your folder list in VS Code like the pic below<br>
+![Virtual Environment](pics/virtual_env.png)
 
 ## Test out your setup
 Now that you have software installed and setup, it is time to test to see if it all works!
 
 1. Create a new file called *hello_world.py*
-2. Make sure it is not in the .snappytk folder but outside this. I put mine in a *code* folder like in this pic
+2. Make sure it is not in the .snappytk folder but outside this. I put mine in a *code* folder like in this pic<br>
 ![hello_world.py in code folder](pics/hello_world.png)
 3. You should now be able to type your code in the new *hello_world.py* in the editor window
 4. Type in the code below and save your file: and save your file

@@ -2,7 +2,7 @@
 
 [Back to Episode List](../README.md)
 
-[Watch Episode 2 on YouTube]()
+[Watch Episode 2 on YouTube](https://www.youtube.com/watch?v=23RtY1f_J0Q)
 
 In this episode we are going to see how to display a window using Tkinter. We are going to look at three different ways of writing this code and exam why we should write our code to be flexible and follow some good practices.
 

@@ -2,7 +2,7 @@
 
 [Back to Episode List](../README.md)
 
-[Watch Episode 1 on YouTube (coming soon)]()
+[Watch Episode 1 on YouTube (https://youtu.be/nbCuLrLLUVY)]()
 
 Before you start writing any code you need to have an 'environment' set up on your computer. Don't rush this part, as it can cause problems later down the track.
 

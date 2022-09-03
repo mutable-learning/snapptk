@@ -11,4 +11,4 @@ Watching videos is great, but writing your own code is better. Let's get to it!
 
 ## Episode List:
 
-1. [Episode 1 - Setting up your programming environment](episode_1/Episode_1_notes.md) ([Watch Episode 1 (https://youtu.be/nbCuLrLLUVY)]())
+1. [Episode 1 - Setting up your programming environment](episode_1/Episode_1_notes.md) ([YouTube Link](https://youtu.be/nbCuLrLLUVY))

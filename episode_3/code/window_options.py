@@ -41,12 +41,12 @@ class snappytk(tk.Tk):
         # self.resizable(0, 0)
 
         # In Windows we can change the icon showing in the title bar
-        self.iconbitmap("episode_3/pics/snappytk.ico")
+        # self.iconbitmap("episode_3/pics/snappytk.ico")
 
         # We can change attributes for windows to do a variety of things
         # These depend on which operating system you are running
         # Lets get a list of the available attributes first
-        print(self.attributes())
+        # print(self.attributes())
 
         # We can make the window a 'toolwindow'
         # self.attributes("-toolwindow", 1)

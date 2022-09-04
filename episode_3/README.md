@@ -2,7 +2,7 @@
 
 [Back to Episode List](../README.md)
 
-[Watch Episode 3 on YouTube]()
+[Watch Episode 3 on YouTube](https://youtu.be/tPDwpXvEd3A)
 
 Let's explore what we can do with a simple tkinter window to configure it. When you are first thinking about building your new software, spare a little time to decide how your application is going to work for your users and what you can do to make it easier for them and a nicer interface in general.
 

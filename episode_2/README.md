@@ -55,7 +55,7 @@ class my_gui(tk.Tk):
     def __init__(self, *args, **kwargs):
         super().__init__()
 
-if __name__ == "__main__:
+if __name__ == "__main__":
     root = my_gui()
     root.mainloop()
 ```

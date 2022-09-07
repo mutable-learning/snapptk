@@ -22,6 +22,8 @@ In the first line we add a frame widget. **Frames** are widgets that can have ot
 
 We then pack this frame into our main application window, and we also tell it to fill and expand to take up all the space. The style we added makes the frame a grey colour as well.
 
+![Grey frame using the style, filling the window](pics/style_fill_expand_frame.png)
+
 ## Adding a label and adjusting layouts
     self.first = ttk.Label(self.container_frame, text="first", background="yellow", anchor=tk.SW)
     self.first.pack(fill=tk.BOTH,expand=1, side=tk.TOP)
@@ -32,18 +34,28 @@ We first create a label, and then we pack it on the second line. Notice that whe
 
 We also set the text to display and the background colour.
 
+![Four labels with backgrounds packed into a frame](pics/labels_packed.png)
+
 Then there are three other parts of code to practice with now:
 
     anchor=tk.SW
 If the label has space to move the text around, you can tell it where to display using compass co-ordinates. You can also use 'center' to set the text in the middle of the label. You can either use **tk.W** or **'w'** when you specify the anchor.
 
     fill=tk.BOTH
-**Fill** tells the widget to use up the space it has available to it when it is packed into the container.
+**fill** tells the widget to use up the space it has available to it when it is packed into the container.
 
      expand=1
-**Expand** tells the widget to take up any available size if the parent changes size, or if there is size available in the parent object.
+**expand** tells the widget to take up any available size if the parent changes size, or if there is size available in the parent object.
 
 You can combine fill and expand in different ways to get the result you want. Try it out to get a feel for how they work.
+
+![Four labels with fill, expand and anchors set](pics/fill_expand_anchor.png)
+
+    side=tk.LEFT
+**side** packs the widget into a 'side' of the container, which could be one of: top, left, right or bottom. Using the *side* argument can make your layouts change a lot and allow you to completely change your widget layout. Take some time to experiment with a few widgets and varying which side you pack them to.
+
+![Four labels packed with different sides](pics/different_sides.png)
+
 
 ## Practice
 Using just a frame and some labels. Try to make a country's flag such as Belgium, France or the Netherlands.

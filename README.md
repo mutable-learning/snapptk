@@ -16,3 +16,4 @@ Watching videos is great, but writing your own code is better. Let's get to it!
 3. [Episode 3 - Configuring Tkinter windows](episode_3/README.md) ([YouTube Link](https://youtu.be/tPDwpXvEd3A))
 4. [Episode 4 - What's a layout manager?](episode_4/README.md) ([YouTube Link](https://youtu.be/SeXI_08f9Q0))
 5. [Episode 5 - Layout and widget hierarchy](episode_5/README.md) ([YouTube Link](https://youtu.be/s-_uAEhSH3g))
+6. [Episode 6 - Packing a frame with labels](episode_6/README.md) ([YouTube Link](https://youtu.be/KBPhPnRcj30))

@@ -4,6 +4,8 @@
 
 [Watch Episode 5 on YouTube](https://youtu.be/s-_uAEhSH3g)
 
+[Get the code for Episode 5 here](code/layout.py)
+
 Now that we have seen how the different layout managers, place, pack and grid, we need to understand that Tkinter uses a layout and widget hierarchy model to display and manage all the widgets and windows in your application.
 
 ## Layout Hierarchy

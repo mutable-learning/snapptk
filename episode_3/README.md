@@ -4,6 +4,8 @@
 
 [Watch Episode 3 on YouTube](https://youtu.be/tPDwpXvEd3A)
 
+[Get the code for Episode 3 here](code/window_options.py)
+
 Let's explore what we can do with a simple tkinter window to configure it. When you are first thinking about building your new software, spare a little time to decide how your application is going to work for your users and what you can do to make it easier for them and a nicer interface in general.
 
 **NOTE:** We are using a class in our code to show the window. Due to this we use the keyword *self* to refer to the 'instance' of our window. If you weren't using a class you could replace all the 'self' code with the variable name that is storing your window object, like *root* for example.

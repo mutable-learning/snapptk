@@ -4,6 +4,8 @@
 
 [Watch Episode 4 on YouTube](https://youtu.be/SeXI_08f9Q0)
 
+[Get the code for Episode 4 here](code/)
+
 Now that we have seen how to display a window and configure it with some options for our application, we are going to want to start showing our interface. Tkinter has some terminology and some rules that you need to understand to get your interfaces looking the way you want them.
 
 One of the things that many people new to Tkinter struggle with is understanding what a **Layout Manager** is. Let's take a look at how you can show some buttons in your window and what these mysterious layout managers do.

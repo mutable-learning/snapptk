@@ -1,10 +1,12 @@
-# SnappyTk Episode 6 - 
+# SnappyTk Episode 6 - Packing a frame with labels
 
 [Back to Episode List](../README.md)
 
-[Watch Episode 5 on YouTube](https://youtu.be/KBPhPnRcj30)
+[Watch Episode 6 on YouTube](https://youtu.be/KBPhPnRcj30)
 
-Now let's try adding some labels to a frame widget and see if we can start to understand how to use the *pack()* layout manager better. You can see all the code [here](code/packing_labels.py).
+[Get the code for Episode 6 here](code/packing_labels.py)
+
+Now let's try adding some labels to a frame widget and see if we can start to understand how to use the *pack()* layout manager better.
 
 ## ttk Widgets
     from tkinter import ttk

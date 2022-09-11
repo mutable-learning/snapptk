@@ -4,7 +4,7 @@
 
 [Watch Episode 8 on YouTube](https://youtu.be/b-85bAuDFkc)
 
-[Get the code for Episode 8 here](code/label_images.py)
+[Get the code for Episode 8 here](code/picking_colours.py)
 
 In this episode we are looking at how we can use a **Button**, a **tkinter variable** and the built-in **colorchooser** module to make a simple interactive window. Below is an example of the end application:
 

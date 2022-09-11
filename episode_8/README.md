@@ -1,4 +1,4 @@
-# SnappyTk Episode 8 - Labels with images
+# SnappyTk Episode 8 - Choosing colours with a button click!
 
 [Back to Episode List](../README.md)
 

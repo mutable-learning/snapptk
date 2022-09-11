@@ -18,4 +18,4 @@ Watching videos is great, but writing your own code is better. Let's get to it!
 5. [Episode 5 - Layout and widget hierarchy](episode_5/README.md) ([YouTube Link](https://youtu.be/s-_uAEhSH3g))
 6. [Episode 6 - Packing a frame with labels](episode_6/README.md) ([YouTube Link](https://youtu.be/KBPhPnRcj30))
 7. [Episode 7 - Labels with images](episode_7/README.md) ([YouTube Link](https://youtu.be/tLKec9nUywQ))
-8. [Episode 8 - Changing colours with a button click!](episode_8/README.md) ([YouTube Link](https://youtu.be/b-85bAuDFkc))
+8. [Episode 8 - Choosing colours with a button click!](episode_8/README.md) ([YouTube Link](https://youtu.be/b-85bAuDFkc))
